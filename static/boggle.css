@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: larger;
+}
+
+html {
+    background-image: url("https://i.pinimg.com/originals/78/81/2f/78812fd262025d24e53452a1307bbb6d.png");
+    color: white;
+    display: block;
+}
+
+button:hover {
+    background-color: #CCFF33;
+}
+
+h1 {
+    text-shadow: 1px 1px 2px rgb(241, 78, 227), 0 0 1em #007899, 0 0 0.2em #007899;
+}
+
+.msg {
+    color: rgb(253, 143, 143);
+}
